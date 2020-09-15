@@ -1,0 +1,20 @@
+C:\Users\Kabrina\Documents\C#\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.exe.config
+C:\Users\Kabrina\Documents\C#\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.exe
+C:\Users\Kabrina\Documents\C#\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.pdb
+C:\Users\Kabrina\Documents\C#\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.exe
+C:\Users\Kabrina\Documents\C#\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.exe.config
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\bin\Debug\AverageTestScoresForeachBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 7\AverageTestScoresForeachBrady\AverageTestScoresForeachBrady\obj\Debug\AverageTestScoresForeachBrady.pdb
